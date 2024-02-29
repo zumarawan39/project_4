@@ -1,0 +1,123 @@
+@media only screen and (max-width : 576px) {
+    .nav_bar ul {
+        display: none !important;
+    }
+
+    .nav_img {
+        width: 50% !important;
+        height: 90% !important
+    }
+
+    .nav_menu_bar {
+        display: block !important;
+    }
+
+    .nav_menu_bar i {
+        font-size: 25px;
+    }
+
+    .header_image_child {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .img_para h1 {
+        font-size: 25px !important;
+        width: 100% !important;
+    }
+
+    .img_para h4 {
+        font-size: 12px !important;
+        padding: 10px 0px !important;
+    }
+
+    .first_box_two {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .box_two {
+        width: 90% !important;
+        margin: auto;
+    }
+
+    .second_section {
+        height: 600px !important;
+        text-align: center;
+    }
+
+    .second_para button {
+        height: 200px !important;
+    }
+
+    .third_section {
+        height: 35% !important;
+    }
+
+    .third_child {
+        width: 100% !important;
+        flex-direction: column;
+    }
+
+    .third_box_one {
+        width: 100% !important;
+    }
+
+    .third_box_two {
+        flex-direction: column;
+        width: 70% !important;
+    }
+
+    .third_box_row {
+        display: flex;
+        flex-direction: column;
+        height: 100% !important;
+        margin: auto;
+    }
+
+
+
+    .third_boxes {
+        text-align: center;
+    }
+
+    .third_boxes h3 {
+        font-size: 25px;
+    }
+
+
+    .third_boxes i {
+        font-size: 85px !important;
+    }
+
+    .fourth_section {
+        height: 45% !important;
+    }
+
+    .fourth_box_one {
+        height: 5% !important;
+    }
+
+    .fourth_box {
+        height: 95% !important;
+    }
+
+    .fourth_img_row {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .fourth_img {
+        width: 100% !important;
+    }
+
+    .fifth_section {
+        height: 15%;
+    }
+
+    .fifth-child {
+        width: 80% !important;
+    }
+
+}
